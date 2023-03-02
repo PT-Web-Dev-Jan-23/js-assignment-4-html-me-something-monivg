@@ -1,1 +1,61 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    overflow-x: hidden;
+}
+header{
+    background-color: beige;
+    height: auto;
+    margin: 0px;
+    padding: 20px;
+}
+main{
+    padding: 30px 100px;
+    box-sizing: border-box;
+}
+footer{
+    background-color: beige;
+    color: black;
+    text-align: center;
+    height: auto;
+    padding: 20px;
+    margin: 0px;
+}
+h1{
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: 3.5rem;
+    margin: 0px 0px 10px;
+}
+h2{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+    margin: .5rem 0px;
+}
+img{
+    height: 450px;
+    width: 600px;
+}
+
+#mainHeading{
+    color: red;
+    text-align: center;
+}
+
+#testP{
+    font-style: italic;
+}
+
+.pop{
+    background-color:beige;
+    text-align: center;
+    color: red
+}
+
+.funParagraph{
+    color: green
+}
